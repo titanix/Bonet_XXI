@@ -8,6 +8,8 @@ The interesting point of this dictionary is it features the former Vietnamese wr
 
 For now only the Vietnamese part is copied from the dictionary in plain text files. French will be added later with OCR help and a new XML-basedfile will be created.
 
+Every Vietnamese word appearing in an entry is copied in the file, even if not a compound word of the current entry. Compound words use the nôm character of the entry instead of the shortcut 〇.
+
 ### File Structure
 
 Entries from the dictionary are separated by a blank line. One headword or compound word per line.
