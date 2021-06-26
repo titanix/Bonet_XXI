@@ -16,6 +16,13 @@ Entries from the dictionary are separated by a blank line. One headword or compo
 *Chữ quốc* first, then *chữ nôm*, as in the original dictionary.
 Compound words belonging to an entry are placed a the file were the corresponding headword belong even if appearing on the next page.
 
+## License
+
+This work is placed under Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) license.
+
+Prefered attribution form is:  
+Original data compiled by Jean Bonet. Digitized by Louis Lecailliez.
+
 ## Notes
 
 View file [notes.txt](notes.txt).
