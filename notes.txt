@@ -7,7 +7,20 @@ Page 2:
 - ác 歹 has found as 歺
 
 Page 4:
-- 晴 glyph is printed as ⿰日靑.
+- 晴 glyph is printed as ⿰日靑
+
+Page 5:
+- 鞍 glyph is printed ⿰莗安
+- an xử 案處 is missing accent. Error?
+
+Page 6:
+- của 𧵑 printed as ⿰貝右
+- an sĩ 隱士 is missing accent. Error?
+
+Page 8:
+- trứng ⿱壯卵 is not referenced in IDS file nor in Nom Fundation hosted dictionaries. Could be 𠨡 or 𫧾 with an error.
+- 𠻵 glyph is printed as ⿰口⿱共卉
+- 𩆡 is read dào, listed as rào is other sources (unicode, vhn)
 
 Page 38: entry 賠 has for alternative charactere  培.
 
