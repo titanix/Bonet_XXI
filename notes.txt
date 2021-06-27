@@ -22,6 +22,9 @@ Page 8:
 - 𠻵 glyph is printed as ⿰口⿱共卉
 - 𩆡 is read dào, listed as rào is other sources (unicode, vhn)
 
+Page 9:
+- 水 written thủy not thuỷ
+
 Page 38: entry 賠 has for alternative charactere  培.
 
 Page 40: one IDS form biền ⿰氵孌
