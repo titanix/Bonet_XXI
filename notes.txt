@@ -25,6 +25,9 @@ Page 8:
 Page 9:
 - 水 written thủy not thuỷ
 
+Page 10:
+- character for đơn in đơn tì bà (bà 琶 entry) not found
+
 Page 38: entry 賠 has for alternative charactere  培.
 
 Page 40: one IDS form biền ⿰氵孌
