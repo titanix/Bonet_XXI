@@ -26,7 +26,10 @@ Page 9:
 - 水 written thủy not thuỷ
 
 Page 10:
-- character for đơn in đơn tì bà (bà 琶 entry) not found
+- character for đơn in đơn tì bà (bà 琶 entry) not found; word skipped
+
+Page 12:
+- 𦸅 seems equivalent to 蔻
 
 Page 38: entry 賠 has for alternative charactere  培.
 
