@@ -40,6 +40,11 @@ Page 17:
 - bàn vấn written as 盤間. Corrected to 盤問 since the error is obvious
 - entry 牓 has for alternative character 版
 
+Page 19:
+- ba bảng 囉榜 is there a mistake? ra bảng
+- IDS sequence used in băng xăng ⿰扌⿳山儿工
+- bâng had an additional stroke, written as ⿲扌⿱一丰阝. Using 挷 from BTCN instead.
+
 Page 38: entry 賠 has for alternative character 培.
 
 Page 40: one IDS form biền ⿰氵孌
