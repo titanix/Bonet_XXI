@@ -64,6 +64,13 @@ Page 23:
 Page 27:
 - bánh bèo printed as 䕯𩚛, corrected to 䕯𩛄 based on word meaning and character pronunciation
 
+Page 28:
+- entry bi 坡 has for alternative characters 岥 and 陂
+
+Page 29:
+- weird sách variant in bìa sách; replaced by 册
+- 墜 printed as trụy not thuỵ
+
 Page 38: entry 賠 has for alternative character 培.
 
 Page 40: 
