@@ -75,6 +75,9 @@ Page 31:
 - missing dot on printed 朗 in 𤅶朗
 - missplaced accent on 啫 giã
 
+Page 32:
+- 榔 is printed with glyph ⿲木皀阝
+
 Page 38: entry 賠 has for alternative character 培.
 
 Page 40: 
