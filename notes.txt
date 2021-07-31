@@ -78,6 +78,12 @@ Page 31:
 Page 32:
 - 榔 is printed with glyph ⿲木皀阝
 
+Page 34:
+- quên in bỏ quên encoded as 涓 but printed version is more akin to 淯, but 淯 is a different character
+https://dict.variants.moe.edu.tw/variants/rbt/word_attribute.rbt?quote_code=QTAyMjA3
+https://dict.variants.moe.edu.tw/variants/rbt/word_attribute.rbt?quote_code=QjAyMTA5
+- using 𡢼 in bỏ vợ even if glyph is little different (meaning is coherent)
+
 Page 38: entry 賠 has for alternative character 培.
 
 Page 40: 
