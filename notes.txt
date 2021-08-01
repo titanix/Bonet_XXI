@@ -84,6 +84,15 @@ https://dict.variants.moe.edu.tw/variants/rbt/word_attribute.rbt?quote_code=QTAy
 https://dict.variants.moe.edu.tw/variants/rbt/word_attribute.rbt?quote_code=QjAyMTA5
 - using 𡢼 in bỏ vợ even if glyph is little different (meaning is coherent)
 
+Page 36:
+- (bồ chì) while glyph looking to 鈙 is used in print, cross checking with other dictionaries seems to indicate it could 鈘 instead
+- thờ écrit comme ⿰礻余, encodé via 𰨂
+- tout comme sur la page 33, il y a un caractère écrit avec un ton ả (bải) alors que ce caractère n'est référencé qu'avec le ton ã à la fois dans la base mais aussi dans les dictionnaires listés par la fondation nôm. Encodé avec bải.
+
+Page 37:
+- radical for bọc is printed with 礻 礻 but this isn't encoded. Based on other dictionaries, 襆 was used instead.
+- 攴 as also for form 攵
+
 Page 38: entry 賠 has for alternative character 培.
 
 Page 40: 
