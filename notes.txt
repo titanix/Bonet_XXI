@@ -132,5 +132,9 @@ Page 52:
 Page 54:
 - 㩒 cặm also read cắm
 
+Page 55:
+- warning: 冉 as no táy reading in dict. from VNPF, while 再 has táy for reading. Using 冉. Maybe an error from original compiler.
+- 觔 maybe display with an additional stroke depending on the font used.
+
 Page 227:
 - nằm 𦣰 imprimé comme ⿰臥南
