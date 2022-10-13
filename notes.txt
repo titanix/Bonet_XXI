@@ -136,5 +136,10 @@ Page 55:
 - warning: 冉 as no táy reading in dict. from VNPF, while 再 has táy for reading. Using 冉. Maybe an error from original compiler.
 - 觔 maybe display with an additional stroke depending on the font used.
 
+Page 57:
+- doan reading in doan cang lệ 綠伉麗 is not found in other dictionaries
+- 𫅷 in 強𫅷 used because meaning and tone match, but print is different
+- cẳng 亙 printed with shape close to A00055-014 (https://dict.variants.moe.edu.tw/variants/rbt/word_attribute.rbt?quote_code=QTAwMDU1)
+
 Page 227:
 - nằm 𦣰 imprimé comme ⿰臥南
