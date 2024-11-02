@@ -141,5 +141,12 @@ Page 57:
 - 𫅷 in 強𫅷 used because meaning and tone match, but print is different
 - cẳng 亙 printed with shape close to A00055-014 (https://dict.variants.moe.edu.tw/variants/rbt/word_attribute.rbt?quote_code=QTAwMDU1)
 
+Page 59:
+- 𩛄 glyph is print as ⿰飠內
+- skipping a word containing problematic character for cữa (appearing wrongly in other pages as F3 B0 A0 AE)
+
+Page 60:
+- 橰 glyph printed with 目 instead of 自
+
 Page 227:
 - nằm 𦣰 imprimé comme ⿰臥南
